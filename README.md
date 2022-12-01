@@ -1,4 +1,4 @@
-# GraphEditor0.5
+# GraphEditor0.6
 Graph editor on python
 -
 
@@ -21,3 +21,8 @@ Graph editor on python
 ```AddEdgeFromVertex(Vertex1(),Vertex2())``` - добавить грань по вертексам
 
 ```CreateGraphFromFile('path.txt')``` - загрузить граф из файла
+
+#
+# Console command list
+
+![image](https://user-images.githubusercontent.com/96372727/205130617-e917320e-0310-4b13-a380-948fb3bbdf70.png)
